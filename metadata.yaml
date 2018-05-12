@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32263'
     url: http://www.gutenberg.org/2009/agents/32263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26835#Where-the-Souls-of-Men-are-Calling
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
 identifiers:
